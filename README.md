@@ -53,7 +53,7 @@ Examples of how to:
 
 ## 👤 Author
 
-**Asithembiso**
+**Athi**
 - GitHub: [@asithembiso](https://github.com/asithembiso)
 
 ## 📜 License
